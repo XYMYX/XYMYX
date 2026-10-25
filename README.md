@@ -1,7 +1,7 @@
 # Im XYMYX 
 
 Career changer from **healthcare to cybersecurity**, based in Switzerland 🇨🇭
-I started coding in **October 2026** and Im learning in public.
+I started coding in **October 2026** and I'm learning in public.
 
 ## Currently learning
 
