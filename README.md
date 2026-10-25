@@ -20,6 +20,7 @@ I started coding in **October 2026** and Im learning in public.
 
 * [first-cpp-steps](https://github.com/XYMYX/first-cpp-steps): my very first C++ programs
 * [xymyx-website](https://github.com/XYMYX/xymyx-website): my website, built together with AI
+* [overthewire-bandit-notes](https://github.com/XYMYX/overthewire-bandit-notes): my notes for every bandit level, no spoilers
 
 ### In progress (private, release soon)
 
