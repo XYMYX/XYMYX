@@ -1,4 +1,4 @@
-# Im XYMYX 
+# I'm XYMYX 
 
 Career changer from **healthcare to cybersecurity**, based in Switzerland 🇨🇭
 I started coding in **October 2026** and I'm learning in public.
