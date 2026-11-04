@@ -1,7 +1,7 @@
-# Im XYMYX 
+# I'm XYMYX 
 
 Career changer from **healthcare to cybersecurity**, based in Switzerland 🇨🇭
-I started coding in **October 2026** and Im learning in public.
+I started coding in **October 2026** and I'm learning in public.
 
 ## Currently learning
 
@@ -18,7 +18,18 @@ I started coding in **October 2026** and Im learning in public.
 
 ## Projects
 
-* [first-cpp-steps](https://github.com/XYMYX/first-cpp-steps): my very first C++ programs
+### Security tools
+
+* [myxguard](https://github.com/XYMYX/myxguard): a multilingual prompt injection scanner for AI agents (EN, DE, FR, IT, Swiss German). Code written with AI, I had every part explained to me
+* [pc-care](https://github.com/XYMYX/pc-care): a simple Windows maintenance tool for non-technical users. It only shows and suggests, nothing happens without your OK. Code written by AI from my requirements
+
+### Learning
+
+* [first-cpp-steps](https://github.com/XYMYX/first-cpp-steps): my very first C++ programs and a log analyzer in progress, written by me
+* [overthewire-bandit-notes](https://github.com/XYMYX/overthewire-bandit-notes): my notes for every bandit level, no spoilers
+
+### Other
+
 * [xymyx-website](https://github.com/XYMYX/xymyx-website): my website, built together with AI
 
 ### In progress (private, release soon)
@@ -28,10 +39,9 @@ I started coding in **October 2026** and Im learning in public.
 
 ## About AI
 
-I use AI as a tutor and collaborator, and I label clearly what was built with AI and what I wrote myself.
+I write my C++ code myself and use AI as a tutor. Some bigger projects are built by AI from my ideas and requirements. Every repo says clearly what was built with AI and what I wrote myself.
 
 ## Find me
 
 * X: [@XYMYXX](https://x.com/XYMYXX)
 * Web: [xymyx.ch](https://xymyx.ch)
-
