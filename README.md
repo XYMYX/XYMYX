@@ -34,10 +34,10 @@ next      Python · TryHackMe · networking
 | --- | --- | --- |
 | [**myxguard**](https://github.com/XYMYX/myxguard) | Multilingual prompt injection scanner for AI agents (EN, DE, FR, IT, Swiss German) | AI, every part explained to me |
 | [**pc-care**](https://github.com/XYMYX/pc-care) | Simple Windows maintenance tool for non-technical users. Shows and suggests, nothing happens without your OK | AI, from my requirements |
+| [**CAVE-minigame**](https://github.com/XYMYX/CAVE-minigame) | Chat-controlled cave digging game for a vertical YouTube livestream | AI (Cursor, improved by Claude Code) |
 | [**first-cpp-steps**](https://github.com/XYMYX/first-cpp-steps) | My very first C++ programs and a log analyzer in progress | **me** |
 | [**overthewire-bandit-notes**](https://github.com/XYMYX/overthewire-bandit-notes) | My notes for every Bandit level, no spoilers | **me** |
 
-<sub>In progress (private, release soon): <b>CAVE</b>, a chat-controlled minecraft-style minigame for a 24/7 stream · <b>security-portfolio</b>, writeups and notes from my security learning</sub>
 
 ### `$ cat about-ai.md`
 
