@@ -12,7 +12,7 @@
 ### `$ whoami`
 
 ```text
-name      MYX (brand: XYMYX)
+name      XYMYX
 from      healthcare
 heading   cybersecurity
 learning  C++ · Linux · the terminal · OverTheWire Bandit
@@ -32,11 +32,11 @@ next      Python · TryHackMe · networking
 
 | Project | What it is | Built by |
 | --- | --- | --- |
-| [**myxguard**](https://github.com/XYMYX/myxguard) | Multilingual prompt injection scanner for AI agents (EN, DE, FR, IT, Swiss German) | AI, every part explained to me |
+| [**myxguard**](https://github.com/XYMYX/myxguard) | Multilingual prompt injection scanner for AI agents (EN, DE, FR, IT) | AI, every part explained to me |
 | [**pc-care**](https://github.com/XYMYX/pc-care) | Simple Windows maintenance tool for non-technical users. Shows and suggests, nothing happens without your OK | AI, from my requirements |
 | [**CAVE-minigame**](https://github.com/XYMYX/CAVE-minigame) | Chat-controlled cave digging game for a vertical YouTube livestream | AI (Cursor, improved by Claude Code) |
 | [**first-cpp-steps**](https://github.com/XYMYX/first-cpp-steps) | My very first C++ programs and a log analyzer in progress | **me** |
-| [**overthewire-bandit-notes**](https://github.com/XYMYX/overthewire-bandit-notes) | My notes for every Bandit level, no spoilers | **me** |
+| [**overthewire-bandit-notes**](https://github.com/XYMYX/overthewire-bandit-notes) | My notes for every Bandit level, no spoilers. **My current progress is tracked there** | **me** |
 
 
 ### `$ cat about-ai.md`
@@ -44,3 +44,10 @@ next      Python · TryHackMe · networking
 > I write my C++ code myself and use AI as a tutor.
 > Some bigger projects are built by AI from my ideas and requirements.
 > Every repo says clearly what was built with AI and what I wrote myself.
+
+### `$ ./snake --contributions`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XYMYX/XYMYX/output/github-snake-dark.svg">
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/XYMYX/XYMYX/output/github-snake.svg" width="100%">
+</picture>
