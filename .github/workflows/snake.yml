@@ -26,7 +26,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          cd dist
+          # dist/ was created by the snk Docker container as root, so copy the
+          # SVGs into a folder the runner user owns before running git there
+          mkdir out
+          cp dist/*.svg out/
+          cd out
           git init -q -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
