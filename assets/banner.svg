@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="XYMYX: eXploit Your Mistakes, Yield eXcellence">
+  <defs>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#ffffff" opacity="0.10"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#000" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#000" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "DejaVu Sans Mono", "Liberation Mono", monospace; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect width="1280" height="320" rx="14" fill="#000"/>
+  <rect width="1280" height="320" rx="14" fill="url(#dots)"/>
+  <rect x="140" y="70" width="1000" height="180" fill="url(#fade)"/>
+  <rect x="1.5" y="1.5" width="1277" height="317" rx="13" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+
+  <!-- terminal title bar -->
+  <g class="mono" font-size="15" fill="#ffffff" opacity="0.55">
+    <circle cx="34" cy="32" r="6" fill="none" stroke="#fff" stroke-width="1.5"/>
+    <circle cx="56" cy="32" r="6" fill="none" stroke="#fff" stroke-width="1.5"/>
+    <circle cx="78" cy="32" r="6" fill="none" stroke="#fff" stroke-width="1.5"/>
+    <text x="1246" y="37" text-anchor="end">myx@xymyx: ~</text>
+  </g>
+
+  <text x="640" y="168" text-anchor="middle" class="mono" font-size="104" font-weight="700" letter-spacing="22" fill="#ffffff">XYMYX</text>
+  <line x1="420" y1="196" x2="860" y2="196" stroke="#ffffff" stroke-width="2"/>
+
+  <text x="640" y="236" text-anchor="middle" class="mono" font-size="22" fill="#ffffff" opacity="0.9" letter-spacing="1">
+    <tspan font-weight="700">eX</tspan>ploit <tspan font-weight="700">Y</tspan>our <tspan font-weight="700">M</tspan>istakes, <tspan font-weight="700">Y</tspan>ield <tspan font-weight="700">eX</tspan>cellence
+  </text>
+
+  <text x="640" y="282" text-anchor="middle" class="mono" font-size="16" fill="#ffffff" opacity="0.55">
+    &gt; healthcare → cybersecurity · switzerland · learning in public since 2026-10-03<tspan class="cursor"> █</tspan>
+  </text>
+</svg>
