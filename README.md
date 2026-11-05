@@ -31,10 +31,10 @@ I started coding in **October 2026** and I'm learning in public.
 ### Other
 
 * [xymyx-website](https://github.com/XYMYX/xymyx-website): my website, built together with AI
+* [CAVE-minigame](https://github.com/XYMYX/CAVE-minigame): a chat-controlled minecraft-style minigame for a 24/7 stream on YouTube and Twitch. Code written by AI from my requirements
 
 ### In progress (private, release soon)
 
-* **CAVE minigame**: a chat-controlled minecraft-style minigame for a 24/7 stream
 * **security-portfolio**: writeups and notes from my security learning
 
 ## About AI
