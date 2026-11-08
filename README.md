@@ -32,6 +32,8 @@ next      Python · TryHackMe · networking
 
 | Project | What it is | Built by |
 | --- | --- | --- |
+| [**idle.exe**](https://github.com/XYMYX/idle.exe) | Tiny idle game that lives on your Windows desktop. XYMYX codes above your taskbar while his setup grows. [Download](https://github.com/XYMYX/idle.exe/releases/latest) | AI (Claude Code), pixel art and game design by **me** |
+| [**eXploit**](https://github.com/XYMYX/Reddit-Game) | Daily password puzzle game for Reddit in a black-and-white terminal. Crack fictional profiles, learn why personal data makes weak passwords | AI (Claude Code), from my game design |
 | [**myxguard**](https://github.com/XYMYX/myxguard) | Multilingual prompt injection scanner for AI agents (EN, DE, FR, IT) | AI, every part explained to me |
 | [**pc-care**](https://github.com/XYMYX/pc-care) | Simple Windows maintenance tool for non-technical users. Shows and suggests, nothing happens without your OK | AI, from my requirements |
 | [**CAVE-minigame**](https://github.com/XYMYX/CAVE-minigame) | Chat-controlled cave digging game for a vertical YouTube livestream | AI (Cursor, improved by Claude Code) |
