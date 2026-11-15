@@ -101,4 +101,8 @@ Chat-controlled cave digging game for a vertical YouTube livestream.
 
 ### `$ ./snake --contributions`
 
-![Snake eating my GitHub contribution graph](https://raw.githubusercontent.com/XYMYX/XYMYX/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XYMYX/XYMYX/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XYMYX/XYMYX/output/github-snake.svg">
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/XYMYX/XYMYX/output/github-snake.svg">
+</picture>
