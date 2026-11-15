@@ -15,16 +15,17 @@
 name      XYMYX
 from      healthcare
 heading   cybersecurity
-learning  C++ · Linux · the terminal · OverTheWire Bandit
-next      Python · TryHackMe · networking
+done      OverTheWire Bandit ✓ · Python basics ✓
+learning  C++ · Linux · TryHackMe
+next      networking · CompTIA Security+
 ```
 
 ### `$ cat roadmap.txt`
 
 | Step | Focus | Status |
-| :---: | --- | :---: |
-| 1 | OverTheWire Bandit, C++ basics, Linux | **▶ now** |
-| 2 | TryHackMe (Pre Security, Cyber Security 101), networking, CompTIA Security+ | ○ next |
+| ---- | ----- | ------ |
+| 1 | OverTheWire Bandit, C++ basics, Linux | **✓ done** |
+| 2 | TryHackMe (Pre Security, Cyber Security 101), networking, CompTIA Security+ | **▶ now** |
 | 3 | Hack The Box, CTFs, more certs | ○ |
 | 4 | A real job in cybersecurity | ○ |
 
@@ -38,8 +39,8 @@ next      Python · TryHackMe · networking
 | [**pc-care**](https://github.com/XYMYX/pc-care) | Simple Windows maintenance tool for non-technical users. Shows and suggests, nothing happens without your OK | AI, from my requirements |
 | [**CAVE-minigame**](https://github.com/XYMYX/CAVE-minigame) | Chat-controlled cave digging game for a vertical YouTube livestream | AI (Cursor, improved by Claude Code) |
 | [**first-cpp-steps**](https://github.com/XYMYX/first-cpp-steps) | My very first C++ programs and a log analyzer in progress | **me** |
-| [**overthewire-bandit-notes**](https://github.com/XYMYX/overthewire-bandit-notes) | My notes for every Bandit level, no spoilers. **My current progress is tracked there** | **me** |
-
+| [**overthewire-bandit-notes**](https://github.com/XYMYX/overthewire-bandit-notes) | My notes for every Bandit level, no spoilers. **Completed** | **me** |
+| [**XYMYX-TOOL**](https://github.com/XYMYX/XYMYX-TOOL) | Portable, read-only toolkit that runs from a USB stick on Windows and macOS: system info, network, SHA-256 hashes, quick security check | AI (Claude Code), from my requirements |
 
 ### `$ cat about-ai.md`
 
